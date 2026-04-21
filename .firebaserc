@@ -1,5 +1,1 @@
-{
-  "projects": {
-    "default": "client-portal-e37da"
-  }
-}
+{ "projects": { "default": "jlc-client-portal" } }
